@@ -5,7 +5,7 @@
 .city .dwicon{ width: 30rpx; height: 30rpx; float: left; margin: 5px;}
 .city text{font-size: 16px; color: #666; float: left;}
 .city .zbicon{ width: 30rpx; height: 30rpx; float: right;margin: 8px 5px;}
-.city .update{ font-size: 12px; float: right; width: 190px;padding:7px 0;}
+.city .update{ font-size: 12px; float: right;padding:7px 2px;}
 
 /*天气预报*/
 .weather{overflow: hidden;background: #cef;color: #58b; padding: 5%; }

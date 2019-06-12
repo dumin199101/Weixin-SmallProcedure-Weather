@@ -4,7 +4,7 @@
     <image class="dwicon" src='../../images/curcity.png'></image>
     <text>当前城市：{{basic.location}}</text>
     
-    <text class="update">最近更新时间：{{update.loc}}</text>
+    <text class="update">{{update.loc}}</text>
     <image class="zbicon" src='../../images/update.png'></image>
   </view>
 
